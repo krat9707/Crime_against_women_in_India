@@ -1,3 +1,0 @@
-conda create -n test_env -c conda-forge python=3.7 geopandas
-
-pip install jupyter
